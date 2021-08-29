@@ -1,4 +1,2 @@
 # assignment
-for sasikanth srirangam 
-tester group 
-advantages 
+print("hello world..!")
